@@ -26,7 +26,7 @@ import Title from './Title'
 import TopMovies from './TopMovies'
 
 const Components = {
-  'teaser': Teaser,
+  'teaser': Teaser, 
   'grid': Grid,
   'feature': Feature,
   'featured-posts': FeaturedPosts,
